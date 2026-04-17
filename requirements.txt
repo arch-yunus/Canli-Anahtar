@@ -1,0 +1,10 @@
+# Canlı Anahtar — Gerekli Kütüphaneler
+# pip install -r requirements.txt
+
+numpy>=1.24.0
+scipy>=1.11.0
+bchlib>=1.0.0
+cryptography>=41.0.0
+galois>=0.3.8
+matplotlib>=3.7.0
+rich>=13.5.0
